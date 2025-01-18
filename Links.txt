@@ -1,0 +1,4 @@
+Links:
+Terminais 
+https://blog.formacao.dev/iniciando-com-o-terminal-do-windows/
+https://blog.formacao.dev/terminal-no-macos-linux/
