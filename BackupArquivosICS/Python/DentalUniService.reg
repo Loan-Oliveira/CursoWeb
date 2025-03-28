@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlStatus\Control\Services\DentalUniService]
+"Description"="Gerador de relatorio de beneficiarios ativos"
+"DisplayName"="DentalUni"
+"ImagePath"="C:\Users\loaoliveira\Documents\Python\GerarRelatorioService.exe"
+"Start"=dword:00000002
+"Type"=dword:00000010

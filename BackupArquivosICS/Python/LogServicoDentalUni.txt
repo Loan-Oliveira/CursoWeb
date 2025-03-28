@@ -1,0 +1,4 @@
+[24/03/2025 12:27:12] -> Gerando arquivo...
+[24/03/2025 12:27:12] -> Arquivo salvo com sucesso
+[24/03/2025 12:27:12] -> Fim do programa!
+
